@@ -1,0 +1,18 @@
+:root {
+	--primary: #3f51b5;
+	--shadow: 0 4px 4px 0 rgb(0 0 0 / 25%);
+	--btn-shadow: 8px 8px 16px 0 rgba(0,0,0,.25),
+    inset -8px -8px 16px 0 rgba(0,0,0,.25),
+    inset 8px 8px 16px 0 rgba(83,69,152,.2);
+	--black: #000000;
+	--white: #ffffff;
+	--input: #cbd0ed;
+	--btn: #32408f;
+	--btn-hover: #4d5ec1;
+	--btn-result: #683fb5;
+	--btn-result-hover: #9272ce;
+	--btn-clear: #ca7244;
+	--btn-clear-hover: #d28961;
+	--btn-delete: #c14d5e;
+	--btn-delete-hover: #ce7380;	
+}
