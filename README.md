@@ -1,1 +1,1 @@
-(https://vichernikova.github.io/calculator/calculator/index.html)
+https://vichernikova.github.io/calculator/calculator/index.html
